@@ -1,0 +1,14 @@
+{
+  "rule"          : "The rule is not null",
+  "func"          : "Method does not exist",
+  "param"         : "Missing verification parameters",
+  "require"       : "The value must input",
+  "min"           : "The length of this value is insufficient ",
+  "max"           : "The length of this value must not be greater than ",
+  "number"        : "The value must be a number",
+  "integer"       : "The parameter must be an integer",
+  "email"         : "The parameter must be the mailbox format",
+  "card"          : "Bad ID card format",
+  "phone"         : "Malformed phone number",
+  "unique"        : "This value already exists"
+}
